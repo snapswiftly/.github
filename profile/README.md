@@ -1,4 +1,4 @@
-# SnapSwiftly. - `Turning Offline Potential into Online Power 🌐`
+# SnapSwiftly :-                                                                                                                                                               `Turning Offline Potential into Online Power 🌐`
 
 Welcome to the **SnapSwiftly** GitHub page! Here, we innovate and build solutions that help businesses transition smoothly from offline to online, enabling them to harness the power of the digital world with ease and efficiency.
 
