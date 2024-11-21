@@ -62,12 +62,6 @@ Feel free to [open an issue](https://github.com/snapswiftly/.github/issues) or s
 - **Email**: [snapswiftlyofficial@gmail.com](mailto:snapswiftlyofficial@gmail.com)
 - **Social Media**: [Instagram](https://www.instagram.com/snapswiftly/)
 
----
-## Licensing Terms ⚠️
-
-This repository is protected under the **SnapSwiftly License**.  
-- **No part of codebase may be used, copied, or distributed without prior permission.**
-- For usage inquiries, contact us at [snapswiftlyoffical@gmail.com](mailto:snapswiftlyoffical@gmail.com).
 
 © [2024] SnapSwiftly. All rights reserved.
 
