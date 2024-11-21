@@ -63,11 +63,12 @@ Feel free to [open an issue](https://github.com/snapswiftly/.github/issues) or s
 - **Social Media**: [Instagram](https://www.instagram.com/snapswiftly/)
 
 ---
+## Licensing Terms ⚠️
 
-## License 📜
+This repository is protected under the **SnapSwiftly License**.  
+- **No part of codebase may be used, copied, or distributed without prior permission.**
+- For usage inquiries, contact us at [snapswiftlyoffical@gmail.com](mailto:snapswiftlyoffical@gmail.com).
 
-SnapSwiftly is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
-
----
+© [2024] SnapSwiftly. All rights reserved.
 
 Thank you for visiting SnapSwiftly's GitHub! We look forward to building the future of eCommerce together. ✨
